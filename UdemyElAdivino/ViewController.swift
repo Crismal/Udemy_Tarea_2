@@ -22,7 +22,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         self.generarNumeroAleatorio();
-        
     }
     
     @IBAction func askButtonPressed(_ sender: UIButton) {
